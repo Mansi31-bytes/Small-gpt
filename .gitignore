@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Data and models (large files)
+data/raw/
+data/tokenized/
+results/checkpoints/
+*.bin
+*.pt
+*.pth
+
+# Editor / OS
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+results/**/*.pt
+results/**/*.bin
