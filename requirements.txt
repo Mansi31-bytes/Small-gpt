@@ -1,6 +1,8 @@
-torch>=2.5.0
+torch
 tiktoken
 numpy
 tqdm
 matplotlib
 datasets
+streamlit
+huggingface_hub
