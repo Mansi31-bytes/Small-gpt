@@ -5,8 +5,8 @@ no HuggingFace, no nanoGPT fork. Trained on TinyStories V2 and used as a
 controlled testbed to compare two positional encoding schemes:
 **absolute PE** (learned embeddings) vs **RoPE** (rotary position embedding).
 
-> **Live demo:** [Streamlit app](https://your-app.streamlit.app) ·
-> **Model weights:** [Hugging Face Hub](https://huggingface.co/Mansi31-bytes/tinystories-gpt)
+> **Live demo:** [TinyStories GPT · Streamlit](https://small-gpt-npzhmufiehfy62ysdqpacg.streamlit.app/) ·
+> **Model weights:** [Hugging Face Hub](https://huggingface.co/Mansi3110/tinystories-gpt)
 
 ---
 
