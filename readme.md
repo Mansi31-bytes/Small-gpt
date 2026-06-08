@@ -1,4 +1,4 @@
-# small-gpt
+# Small-gpt
 
 A decoder-only transformer (GPT-style) implemented from scratch in PyTorch —
 no HuggingFace, no nanoGPT fork. Trained on TinyStories V2 and used as a
