@@ -1,0 +1,17 @@
+{
+  "run_name": "smoke_absolute",
+  "out_dir": "results",
+  "num_steps": 50,
+  "eval_every": 10,
+  "eval_iters": 5,
+  "batch_size": 4,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.1,
+  "beta1": 0.9,
+  "beta2": 0.95,
+  "grad_clip": 1.0,
+  "warmup_steps": 10,
+  "min_lr_ratio": 0.1,
+  "seed": 0,
+  "device": "cpu"
+}
